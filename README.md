@@ -5,9 +5,12 @@ The module is meant to warn the rider of any sort of wrong-doings that was done 
 
 1- Tri-axial balancing- Gyroscope and accelerometer data analysis. 
 2- Helmet Tech- Warning the riders to wear their helmet strap.
-3- Emergency Module- In-built contact numbers that would aid during an emergency. 4- Tread wear Technology- Sensors that detect the wear in tyres and warn the rider.
+3- Emergency Module- In-built contact numbers that would aid during an emergency.
+4- Tread wear Technology- Sensors that detect the wear in tyres and warn the rider.
 
-#MIT App Inventor An open-source web application that was used to design the module, that uses blocks to denote functions.
+#MIT App Inventor 
+
+An open-source web application that was used to design the module, that uses blocks to denote functions.
 Version-MIT App Inventor 2, originally provided by Google but now maintained by MIT.
 
 Software requirements-
