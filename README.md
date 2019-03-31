@@ -37,7 +37,8 @@ Available on Google Play Store. For all Android phones.
 
 Flask is a microframework for Python based on Werkzeug, Jinja 2.
 
-This server was used to access data from PhonePI. Whenever there is variation in gyroscope or accelerometer values on the phone, the code runs and data that is shown is for all three coordinates.
+This server was used to access data from PhonePI. Whenever there is variation in gyroscope or accelerometer values on the phone, the code runs and data that is shown is for all three coordinates. 
+The csv_integration.py enables us to save the data in csv format which then can be easily read by the MIT app, the output is in form of a warning which depends on the data provided by the file.
 
 Requirements: Latest version of Python.
 
@@ -46,3 +47,4 @@ Requirements: Latest version of Python.
 Helmet tech-
 
 A bluetooth module(HC-05) is used to transmit data from helmet to the application by detecting whether the helmet strap is locked or not. Ultrasonic sensors placed in the vehicle detect the presence of rider and only then permit the transfer of rider behaviour data from the helmet.
+The code is on Arduino but is saved as .py before uploading.
