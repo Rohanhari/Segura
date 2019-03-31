@@ -45,5 +45,4 @@ Requirements: Latest version of Python.
 
 Helmet tech-
 
-A bluetooth module(HC-05) is used to transmit data to the application module.
-Arduino and Ultra sonic sensors were used to detect and send the output signal in form of a warning to wear the helmet strap.
+A bluetooth module(HC-05) is used to transmit data from helmet to the application by detecting whether the helmet strap is locked or not. Ultrasonic sensors placed in the vehicle detect the presence of rider and only then permit the transfer of rider behaviour data from the helmet.
